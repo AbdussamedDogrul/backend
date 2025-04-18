@@ -1,0 +1,1 @@
+npm start dev ile çalıştırılır veritabanı mysqldir
